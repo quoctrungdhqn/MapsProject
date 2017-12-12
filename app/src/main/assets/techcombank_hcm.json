@@ -1,0 +1,104 @@
+{
+    "data": [
+        {
+            "id": "BRANCH1001",
+            "display_name": "Techcombank An Đông",
+            "display_picture": "https://image.ibb.co/nxHu0G/logo_1.png",
+            "address": "97M Nguyễn Duy Dương, Quận 5, Hồ Chí Minh",
+            "latitude": "10.759931",
+            "longitude": "106.670973",
+            "description": "Giờ mở cửa: Thứ 2 đến Thứ 6: 8h - 17h, Thứ 7: 8h - 12h",
+            "phone": "(028) 3835 0203"
+        },
+        {
+            "id": "BRANCH1002",
+            "display_name": "Techcombank An Lạc",
+            "display_picture": "https://image.ibb.co/jbtZ0G/logo_2.png",
+            "address": "468-470 Kinh Dương Vương, Phường An Lac A, Tân Bình, Hồ Chí Minh",
+            "latitude": "10.738992",
+            "longitude": "106.615466",
+            "description": "Giờ mở cửa: Thứ 2 đến Thứ 6: 8h - 17h, Thứ 7: 8h - 12h",
+            "phone": "(028) 3752 4853"
+        },
+        {
+            "id": "BRANCH1003",
+            "display_name": "Techcombank An Phú",
+            "display_picture": "https://image.ibb.co/i6ZJSw/logo_3.png",
+            "address": "Số 301 Trần Hưng Đạo, Phường Cô Giang, Quận 1, Hồ Chí Minh",
+            "latitude": "10.762458",
+            "longitude": "106.690754",
+            "description": "Giờ mở cửa: Thứ 2 đến Thứ 6: 8h - 17h, Thứ 7: 8h - 12h",
+            "phone": "(028) 3915 9139"
+        },
+        {
+            "id": "BRANCH1004",
+            "display_name": "Techcombank Ấp Bắc",
+            "display_picture": "https://image.ibb.co/kBo1fG/logo_4.png",
+            "address": "Số 46 đường Ấp Bắc, Phường 13, Tân Bình, Hồ Chí Minh",
+            "latitude": "10.801898",
+            "longitude": "106.641805",
+            "description": "Giờ mở cửa: Thứ 2 đến Thứ 6: 8h - 17h, Thứ 7: 8h - 12h",
+            "phone": "(028) 3813 2493"
+        },
+        {
+            "id": "BRANCH1005",
+            "display_name": "Techcombank Bà Chiểu",
+            "display_picture": "https://image.ibb.co/hzfE0G/logo_5.png",
+            "address": "10-12 đường Lê Quang Định, phường 14, Bình Thạnh, Hồ Chí Minh",
+            "latitude": "10.803080",
+            "longitude": "106.698435",
+            "description": "Giờ mở cửa: Thứ 2 đến Thứ 6: 8h - 17h, Thứ 7: 8h - 12h",
+            "phone": "(028) 3551 3909"
+        },
+        {
+            "id": "BRANCH1006",
+            "display_name": "Techcombank Bắc Hải",
+            "display_picture": "https://image.ibb.co/eYqE0G/logo_6.png",
+            "address": "110 Đường Đồng Nai, phường 15, Quận 10, Hồ Chí Minh",
+            "latitude": "10.780305",
+            "longitude": "106.661881",
+            "description": "Giờ mở cửa: Thứ 2 đến Thứ 6: 8h - 17h, Thứ 7: 8h - 12h",
+            "phone": "(028) 3977 1427"
+        },
+        {
+            "id": "BRANCH1007",
+            "display_name": "Techcombank Bạch Đằng",
+            "display_picture": "https://image.ibb.co/bxYZ0G/logo_7.png",
+            "address": "Số 67 - 69, Bạch Đằng, Phường 15, Bình Thạnh, Hồ Chí Minh",
+            "latitude": "10.802761",
+            "longitude": "106.709885",
+            "description": "Giờ mở cửa: Thứ 2 đến Thứ 6: 8h - 17h, Thứ 7: 8h - 12h",
+            "phone": "(028) 3511 9884"
+        },
+        {
+            "id": "BRANCH1008",
+            "display_name": "Techcombank Đường 3 tháng 2",
+            "display_picture": "https://image.ibb.co/f5FgfG/logo_8.png",
+            "address": "574 đường 3 tháng 2, phường 14, Quận 10, Hồ Chí Minh",
+            "latitude": "10.766713",
+            "longitude": "106.665499",
+            "description": "Giờ mở cửa: Thứ 2 đến Thứ 6: 8h - 17h, Thứ 7: 8h - 12h",
+            "phone": "(028) 3866 9429/30"
+        },
+        {
+            "id": "BRANCH1009",
+            "display_name": "Techcombank Nguyễn Thượng Hiền",
+            "display_picture": "https://image.ibb.co/neX57w/logo_9.png",
+            "address": "191A - 191B Hoàng Hoa Thám, Phường 6, Bình Thạnh, Hồ Chí Minh",
+            "latitude": "10.808846",
+            "longitude": "106.685206",
+            "description": "Giờ mở cửa: Thứ 2 đến Thứ 6: 8h - 17h, Thứ 7: 8h - 12h",
+            "phone": "(028) 3550 1420"
+        },
+        {
+            "id": "BRANCH1010",
+            "display_name": "Techcombank Ông Tạ",
+            "display_picture": "https://image.ibb.co/jMVgfG/logo_10.png",
+            "address": "Số 711, Cách mạng Tháng Tám, Phường 6, Tân Bình, Hồ Chí Minh",
+            "latitude": "10.792463",
+            "longitude": "106.654195",
+            "description": "https://image.ibb.co/jMVgfG/logo_10.png",
+            "phone": "(028) 3970 1315"
+        }
+    ]
+}
